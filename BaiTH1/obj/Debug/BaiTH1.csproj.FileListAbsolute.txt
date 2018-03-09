@@ -1,0 +1,10 @@
+D:\15DH110313\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\15DH110313\BaiTH1\BaiTH1\bin\Debug\BaiTH1.exe
+D:\15DH110313\BaiTH1\BaiTH1\bin\Debug\BaiTH1.pdb
+D:\15DH110313\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csprojResolveAssemblyReference.cache
+D:\15DH110313\BaiTH1\BaiTH1\obj\Debug\BaiTH1.csproj.CoreCompileInputs.cache
+D:\15DH110313\BaiTH1\BaiTH1\obj\Debug\BaiTH1.exe
+D:\15DH110313\BaiTH1\BaiTH1\obj\Debug\BaiTH1.pdb
+D:\Lap trinh Mang\15DH110313\TH1-Bai 1,2\BaiTH1\bin\Debug\BaiTH1.exe.config
+D:\Lap trinh Mang\15DH110313\TH1-Bai 1,2\BaiTH1\obj\Debug\BaiTH1.exe
+D:\Lap trinh Mang\15DH110313\TH1-Bai 1,2\BaiTH1\obj\Debug\BaiTH1.pdb
